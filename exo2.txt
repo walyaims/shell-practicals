@@ -1,0 +1,116 @@
+    1  sudo apt update
+    2  sudo apt install texmaker
+    3  sudo apt-get install jupyter-notebook
+    4  jupyter notebook
+    5  sudo apt-get install sagemath
+    6  jupyter notebook
+    7  sudo snap install zoom-client
+    8  zoom-client
+    9  sudo apt install octave
+   10  sudo apt -y install r-base gdebi-core
+   11  sudo gdebi rstudio-2021.09.0-351-amd64.deb
+   12  ls
+   13  cd Téléchargements/
+   14  ls
+   15  cd rstudio_install/
+   16  sudo gdebi rstudio-2021.09.0-351-amd64.deb
+   17  cd ..
+   18  cd Téléchargements/
+   19  ls
+   20  sudo gdebi rstudio-2021.09.0-351-amd64.deb
+   21  git log
+   22  instaal git
+   23  install git
+   24  install --help
+   25  install git
+   26  git branch
+   27  cd
+   28  mkdir simplestat
+   29  cd simplestat
+   30  ls
+   31  git init
+   32  ls
+   33  git init
+   34  ls
+   35  ls -a
+   36  ls -A
+   37  cd .git
+   38  cd
+   39  ls
+   40  git
+   41  cd
+   42  mkdir simplestats
+   43  mkdir
+   44  mkdir simplestats
+   45  git init
+   46  cd
+   47  mkdir simplestats
+   48  cd simplestats
+   49  git
+   50  git init
+   51  cd
+   52  mkdir simplestats
+   53  cd
+   54  simplestats
+   55  cd simplestats
+   56  git init
+   57  sudo apt install git
+   58  ls
+   59  /hom
+   60  /home/cd
+   61  /home
+   62  /professeurs
+   63  cd
+   64  cd simplestats
+   65  jypiter notebook
+   66  ls
+   67  cd
+   68  jypiter
+   69  echo''hello world''
+   70  /home/simplestats
+   71  /home/aims
+   72  cd
+   73  cd simplestats
+   74  git init
+   75  cd
+   76  cd simplestats
+   77  git init
+   78  cd ..
+   79  sudo apt install git
+   80  cd
+   81  mkdir simplestats
+   82  cd
+   83  cd simplestats
+   84  mkdir 
+   85  mkdir simplestats
+   86  cd simplestats
+   87  git init
+   88  cd
+   89  mkdir
+   90  mkdir simplestats
+   91  git init
+   92  cd
+   93  mkdir simplestats
+   94  cd 
+   95  cd simplestats
+   96  cd
+   97  mkdir simplestats
+   98  cd simplestats
+   99  git init
+  100  sudo apt intall git
+  101  git init
+  102  sudo apt install git
+  103  cd
+  104  ls 
+  105  ls- A
+  106  ls
+  107  git init
+  108  gitt add
+  109  ls -a
+  110  ls
+  111  ls -R
+  112  cd unix
+  113  wd exo1.txt
+  114  wc exo1.txt
+  115  wc -1 exo1.txt
+  116  history >> exo2.txt
